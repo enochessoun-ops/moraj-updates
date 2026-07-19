@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.28",
+  "version": "0.6.29",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "New: clearer, more accessible screens and a tidier way of showing amounts."
+  "notes": "Small tidy-up: consistent list-table amounts and dates that don't wrap."
 }

@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Suite",
-  "version": "0.8.28",
+  "version": "0.8.29",
   "url": "https://github.com/enochessoun-ops/moraj-finance-suite/releases/latest",
-  "notes": "New: clearer, more accessible screens and a tidier way of showing amounts."
+  "notes": "Small tidy-up: consistent list-table amounts and dates that don't wrap."
 }
