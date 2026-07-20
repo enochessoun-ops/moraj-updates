@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.30",
+  "version": "0.6.31",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "New: off-site encrypted backup, and a guided month-end close."
+  "notes": "New: pick the date when reimbursing a petty-cash float, and a search box in the User Guide."
 }
