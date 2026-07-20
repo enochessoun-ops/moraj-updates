@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Suite",
-  "version": "0.8.31",
+  "version": "0.8.32",
   "url": "https://github.com/enochessoun-ops/moraj-finance-suite/releases/latest",
-  "notes": "New: pick the date when reimbursing a petty-cash float, and a search box in the User Guide."
+  "notes": "Fix: petty-cash & other module vouchers no longer offer a broken Edit/Correct in the Payments list."
 }
