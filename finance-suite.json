@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Suite",
-  "version": "0.8.29",
+  "version": "0.8.30",
   "url": "https://github.com/enochessoun-ops/moraj-finance-suite/releases/latest",
-  "notes": "Small tidy-up: consistent list-table amounts and dates that don't wrap."
+  "notes": "New: off-site encrypted backup, and a guided month-end close."
 }
