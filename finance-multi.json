@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.35",
+  "version": "0.6.36",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "New: apply withholding tax per line when settling a liability; deduct WHT/VAT on staff & supplier advances (voucher shows gross, deductions and net cheque); and remit all WHT rates together on one GRA cheque."
+  "notes": "Advances no longer reclaim input VAT at the advance stage — the input-tax credit is taken when the supplier's tax invoice is booked, so the same VAT is never claimed twice. Withholding-tax behaviour is unchanged."
 }
