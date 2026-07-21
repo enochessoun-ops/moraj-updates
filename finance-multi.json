@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.32",
+  "version": "0.6.34",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "Fix: petty-cash & other module vouchers no longer offer a broken Edit/Correct in the Payments list."
+  "notes": "Print reimbursement payment vouchers, plus a safety fix for float funding cheque clashes."
 }
