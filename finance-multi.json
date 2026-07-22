@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.37",
+  "version": "0.6.38",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "Reliability & compliance fixes. A duplicate cheque number is now caught BEFORE a payment posts (Payments, Vendor Bills, Fuel, Staff Advances and withholding remittances), so a clash can no longer leave a payment posted with no cheque in the register. Reversed withholdings no longer appear on the GRA return schedules or certificates. Group Overview income/expense/surplus now stay correct after a year-end close. A multi-approver approval dead-end is resolved, and the aged-debtor/creditor totals now include future-dated items. Installing: download the arm64 dmg (Apple Silicon) or the plain dmg (Intel Mac); on first open, right-click the app and choose Open. Windows: run the .exe."
+  "notes": "Encrypted automatic backups. When a backup passphrase is set, your automatic backups are now encrypted before they are written — so it is safe to keep them in a cloud folder (OneDrive, Google Drive); the file there is unreadable without the passphrase. Without a passphrase, backups are written in plain form as before (fine for a local, disk-encrypted drive). Restoring an encrypted backup on this computer is automatic; on a new computer, use 'Restore from encrypted backup' and type the passphrase. Existing unencrypted backups still restore normally."
 }
