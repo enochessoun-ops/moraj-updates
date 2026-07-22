@@ -1,6 +1,6 @@
 {
   "product": "MoRaj Finance Suite",
-  "version": "0.8.36",
+  "version": "0.8.37",
   "url": "https://github.com/enochessoun-ops/moraj-finance-suite/releases/latest",
-  "notes": "Advances no longer reclaim input VAT at the advance stage — the input-tax credit is taken when the supplier's tax invoice is booked, so the same VAT is never claimed twice. Withholding-tax behaviour is unchanged."
+  "notes": "Reliability & compliance fixes. A duplicate cheque number is now caught BEFORE a payment posts (Payments, Vendor Bills, Fuel, Staff Advances and withholding remittances), so a clash can no longer leave a payment posted with no cheque in the register. Reversed withholdings no longer appear on the GRA return schedules or certificates. A multi-approver approval dead-end is resolved, and the aged-debtor/creditor totals now include future-dated items. Installing: download the arm64 dmg (Apple Silicon) or the plain dmg (Intel Mac); on first open, right-click the app and choose Open. Windows: run the .exe."
 }
