@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.127",
+  "version": "0.6.128",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "A REDESIGNED SCREEN: sharper text (on Windows the app now uses Segoe UI, the Windows interface font, made to stay crisp on an ordinary office monitor; on a Mac, Inter), one size larger; explanations and forms use the full width of the page; tables fit the screen and line up, with dates, voucher numbers and amounts on one line and small tidy buttons on each row; registers with many columns scroll inside their own panel; summary figures are never cut off. Nothing in your books changes, no feature moves, and printed documents keep their layout. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
+  "notes": "VOUCHERS THAT NAME WHO AUTHORISED THEM: every voucher (payment, journal, receipt, official receipt, petty cash, staff advance, WHT remittance, purchase order, stores issue) prints as the same A4 document with an Authorisation panel - Prepared by, Checked by, Approved by and Received by, each with the name from the ledger, a line to sign and the date - and says who entered it in the ledger. NEW: Receive a payment settles several of a customer's invoices from one cheque, matched to the one deposit in the bank reconciliation; Copy as new invoice repeats monthly billing. FIXED: a foreign-currency invoice, bill, payment or receipt could be saved at a rate of 1; the rate is now filled from Exchange Rates and a rate of 1 is refused. Form buttons show the main action again. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
   "releasedAt": "2026-09-25"
 }
