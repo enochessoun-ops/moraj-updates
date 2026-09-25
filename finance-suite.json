@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.130",
+  "version": "0.8.131",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "VOUCHERS THAT NAME WHO AUTHORISED THEM: every voucher (payment, journal, receipt, official receipt, petty cash, staff advance, WHT remittance, purchase order, stores issue) prints as the same A4 document with an Authorisation panel - Prepared by, Checked by, Approved by and Received by, each with the name from the ledger, a line to sign and the date - and says who entered it in the ledger. NEW: Receive a payment settles several of a customer's invoices from one cheque, matched to the one deposit in the bank reconciliation; Copy as new invoice repeats monthly billing. FIXED: a foreign-currency invoice, bill, payment or receipt could be saved at a rate of 1; the rate is now filled from Exchange Rates and a rate of 1 is refused. Form buttons show the main action again. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
+  "notes": "NEXT 30 DAYS ON THE DASHBOARD: what customers owe on posted invoices, what is owed to suppliers on posted bills, each loan's next instalment, and PAYE, SSNIT, pensions and withholding tax not yet remitted - overdue and falling due in the next 30 days, with the net and the documents falling due. A month you remitted by your own journal is not shown as owed. FIXED: staff advance and petty cash payments now show their payee, cheque number and amount on Payments, and can be found there by cheque number; every line of a cheque payment in the General Ledger names its cheque, so an account such as Staff Advances shows which cheque paid each entry; the withholding remittance voucher is made out to the Ghana Revenue Authority (or the Common Fund), with the supplier shown on whose behalf it is paid. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
   "releasedAt": "2026-09-25"
 }
