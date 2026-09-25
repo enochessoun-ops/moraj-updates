@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.131",
+  "version": "0.8.132",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "NEXT 30 DAYS ON THE DASHBOARD: what customers owe on posted invoices, what is owed to suppliers on posted bills, each loan's next instalment, and PAYE, SSNIT, pensions and withholding tax not yet remitted - overdue and falling due in the next 30 days, with the net and the documents falling due. A month you remitted by your own journal is not shown as owed. FIXED: staff advance and petty cash payments now show their payee, cheque number and amount on Payments, and can be found there by cheque number; every line of a cheque payment in the General Ledger names its cheque, so an account such as Staff Advances shows which cheque paid each entry; the withholding remittance voucher is made out to the Ghana Revenue Authority (or the Common Fund), with the supplier shown on whose behalf it is paid. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
+  "notes": "THE TRIAL COUNTS ITS 30 DAYS: the trial edition now shows 'MoRaj Ledger - Trial', counts its 30 days and asks for a licence key when they are over; an expired trial keeps every book readable, printable and exportable. Nothing changes for a licensed or existing installation. Carries everything in 0.8.131: Next 30 days on the dashboard, advance and petty cash cheques on Payments and the ledger, and withholding remittance vouchers made out to the Ghana Revenue Authority. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
   "releasedAt": "2026-09-25"
 }
