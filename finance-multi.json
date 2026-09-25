@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.126",
+  "version": "0.6.127",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "A CLEANER LOOK ACROSS EVERY SCREEN: text boxes, dropdowns and buttons stand the same height; the buttons in each table row are quiet links with only Post kept solid; tables fit the window and dates, codes and amounts stay on one line; screens with several views show them as tabs; click a heading in the side menu to fold it away; Settings has a grouped index; and choosing your sector hides the screens it does not use. The side menu shows your organisation's full name instead of the company's folder name. FIXED: saving the organisation's details in Settings no longer sends you back to the Dashboard. Nothing in your books changes and printed documents keep their layout; the fuel report now states its currency once instead of on every figure. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-09-24"
+  "notes": "A REDESIGNED SCREEN: sharper text (on Windows the app now uses Segoe UI, the Windows interface font, made to stay crisp on an ordinary office monitor; on a Mac, Inter), one size larger; explanations and forms use the full width of the page; tables fit the screen and line up, with dates, voucher numbers and amounts on one line and small tidy buttons on each row; registers with many columns scroll inside their own panel; summary figures are never cut off. Nothing in your books changes, no feature moves, and printed documents keep their layout. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-09-25"
 }
