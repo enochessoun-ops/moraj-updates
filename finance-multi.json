@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.129",
+  "version": "0.6.130",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "NEXT 30 DAYS ON THE DASHBOARD: what customers owe on posted invoices, what is owed to suppliers on posted bills, each loan's next instalment, and PAYE, SSNIT, pensions and withholding tax not yet remitted - overdue and falling due in the next 30 days, with the net and the documents falling due. A month you remitted by your own journal is not shown as owed. FIXED: staff advance and petty cash payments now show their payee, cheque number and amount on Payments, and can be found there by cheque number; every line of a cheque payment in the General Ledger names its cheque, so an account such as Staff Advances shows which cheque paid each entry; the withholding remittance voucher is made out to the Ghana Revenue Authority (or the Common Fund), with the supplier shown on whose behalf it is paid. Installing: no new tables. Please still take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-09-25"
+  "notes": "FIXED ASSETS COMPLETE: asset classes with their own accounts; straight-line, reducing balance, double-declining, sum-of-the-years'-digits and units-of-production depreciation; transfers kept as history; meter readings; improvements moved and disposed of with their asset; impairment beside revaluation, over the life that is left; the register, depreciation schedule and fixed-asset note, printed. STORES: each item costed by weighted average, FIFO, or batch with expiry dates; the dashboard warns about batches expiring within 30 days. GETTING BACK IN: the Setup Wizard connects your mailbox so Forgot password emails a code; a recovery code; and a reset from this computer when there is neither, for each company. After a factory reset the sign-in screen opens Create your account. Carries everything in 0.6.129. Installing: two new migrations add tables and columns; nothing is posted and no figure changes. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-09-28"
 }
