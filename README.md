@@ -1,6 +1,6 @@
 # MoRaj Finance — update manifests
 
-Public version manifests for the MoRaj Finance desktop apps. **Version numbers and a
+Public version manifests for the MoRaj Finance desktop apps (MoRaj Finance Multi, MoRaj Finance Suite and MoRaj Folio). **Version numbers and a
 download link only — no installers, no data.** Each app reads its file on start-up and
 from Help ▸ Software, compares the `version` to the running build, and (if newer) shows a
 "Download" bar that opens the `url` in the browser. Installers stay in the private release
