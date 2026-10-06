@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "PRINTING: signatures sit at the foot of the A4 page with room to sign; invoices of up to ten lines, busy statements and batch runs of letters and statements each print on one page. ABOUT: About MoRaj Folio from the foot of the menu and on the Help page, with the version and support contact. Carries everything in 1.1.0: report centre, cash lodgements, tax breakdown, accounts journal, targets, faster billing and protected backups. Installing: no change to the books. Take a backup first: Setup, Backup, Back up now.",
-  "releasedAt": "2026-10-05"
+  "notes": "SERVICES: tick more than one service on a bill; each line chooses one; the stay and, optionally, the conference venue, dates and participants are printed. INVOICE: two copies (customer and office) on one A4 landscape sheet; long bills get a full A4 page per copy; fewer words and the balance due stands out. Carries 1.2.0: money held for investigation, unidentified receipts, imports from Excel and PDF, balance confirmations and the books check. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
+  "releasedAt": "2026-10-06"
 }
