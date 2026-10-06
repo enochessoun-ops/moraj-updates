@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.133",
+  "version": "0.8.134",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "FIXED ASSETS COMPLETE: asset classes with their own accounts; straight-line, reducing balance, double-declining, sum-of-the-years'-digits and units-of-production depreciation; transfers kept as history; meter readings; improvements moved and disposed of with their asset; impairment beside revaluation, over the life that is left; the register, depreciation schedule and fixed-asset note, printed. STORES: each item costed by weighted average, FIFO, or batch with expiry dates; the dashboard warns about batches expiring within 30 days. GETTING BACK IN: the Setup Wizard connects your mailbox so Forgot password emails a code; a recovery code; and a reset from this computer when there is neither. After a factory reset the sign-in screen opens Create your account. ONE BASE PRODUCT: MoRaj Ledger now includes invoices and bills, withholding tax, VAT and the GRA returns, fixed assets, budgets, foreign currency, the Tourism Levy and the full financial statements; licence keys already issued keep everything they opened. Carries everything in 0.8.132. Installing: two new migrations add tables and columns; nothing is posted and no figure changes. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-09-28"
+  "notes": "A TRAINING COPY: practise on a copy of your own books, or on sample books, without any risk to the real ones (Overview, Training copy). An orange bar on every screen, TRAINING COPY across every printed page and TRAINING at the start of every saved file; nothing is emailed or backed up from it, the database refuses a posting made in the wrong set of books, and the app always opens in the real books. Sample books: Asante Trading Ltd, with the standard chart and a month of business posted. Also: the email library is updated for security advisories. Carries everything in 0.8.133. Installing: one new migration adds a check; nothing is posted and no figure changes. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-06"
 }
