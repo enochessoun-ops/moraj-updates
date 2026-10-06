@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "RECOVERY HISTORY: Setup, Recovery history brings in the old debtors schedule's bills at their full amounts and every recovery on them, with the old receipt and cheque numbers and payment dates, so each balance shows how it was reached. No balance changes: every debtor is checked before and after, and the import can be undone. Recoveries brought forward never count as cash, banking or in the accounts journal. NEW REPORT: Bills and recoveries. Also carries 1.3.1: the training copy button on Help, two-copy receipts, bank statement matching. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
+  "notes": "CHEQUES AND CASH AWAITING DEPOSIT: cheques and cash paid at the office wait in Daily sales, Lodgements until a deposit slip banks them with the day's cash; cheque bank and date kept, post-dated and stale cheques caught; printable deposit slip. EDITABLE LETTERS: Setup, Letters for the reminder wording, references, addressee and signatory; Edit this letter before printing. PRINTED BY on every invoice, receipt and letter. Also carries 1.4.0: recovery history and the Bills and recoveries report. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
   "releasedAt": "2026-10-06"
 }
