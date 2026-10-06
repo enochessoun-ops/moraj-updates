@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "SERVICES: tick more than one service on a bill; each line chooses one; the stay and, optionally, the conference venue, dates and participants are printed. INVOICE: two copies (customer and office) on one A4 landscape sheet; long bills get a full A4 page per copy; fewer words and the balance due stands out. Carries 1.2.0: money held for investigation, unidentified receipts, imports from Excel and PDF, balance confirmations and the books check. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
+  "notes": "RECEIPTS: two copies (payer and office) on one A4 sheet. BANK: import a bank statement, checked by its balance chain, and match it to lodgements and receipts; record or set aside what is left; reconciliation report. TRAINING COPY: practice books from Help, Training copy, with TRAINING on every screen and printout; the real books untouched. Also: statements and reminder letters in the new style, a clearer cut line, Print always on A4. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
   "releasedAt": "2026-10-06"
 }
