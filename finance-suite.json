@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.135",
+  "version": "0.8.136",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "DOWNLOAD FROM THE BANNER: the Download button now opens a page with the installers for Windows and both kinds of Mac. A NEW installation is a 30-day evaluation until a licence key is entered; installations already in use are not affected and stay fully open. Moving to a new computer therefore needs your licence key. Carries everything in 0.8.134. Installing: nothing in the books changes. Please still take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-07"
+  "notes": "THE NEW MoRaj MARK: the first-run screen, the foot of the sidebar and the browser tab show the company's new mark, two peaks making an M. Your own crest still appears on every voucher, report and letter. SUPPORT is now at sales@morajconsult.com (WhatsApp +233 24 456 5449 unchanged). Carries everything in 0.8.135. Installing: nothing in the books changes. Please still take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-09"
 }
