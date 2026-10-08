@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.131",
+  "version": "0.6.132",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "A TRAINING COPY: practise on a copy of your own books, or on sample books, without any risk to the real ones (Overview, Training copy). An orange bar on every screen, TRAINING COPY across every printed page and TRAINING at the start of every saved file; nothing is emailed or backed up from it, the database refuses a posting made in the wrong set of books, and the app always opens in the real books. Sample books: Asante Trading Ltd, with the standard chart and a month of business posted. Also: the email library is updated for security advisories. Each company has its own practice copy. Carries everything in 0.6.130. Installing: one new migration adds a check; nothing is posted and no figure changes. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-06"
+  "notes": "THE NEW MoRaj MARK: the company picker, sign-in, first-run and loading screens and the browser tab show the company's new mark, two peaks making an M, in place of the copper parcel. Each company's crest still appears on its vouchers, reports and letters. SUPPORT is now at sales@morajconsult.com (WhatsApp +233 24 456 5449 unchanged). Carries everything in 0.6.131. Installing: nothing in the books changes. Please still take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-09"
 }
