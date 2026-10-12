@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.136",
+  "version": "0.8.137",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "THE NEW MoRaj MARK: the first-run screen, the foot of the sidebar and the browser tab show the company's new mark, two peaks making an M. Your own crest still appears on every voucher, report and letter. SUPPORT is now at sales@morajconsult.com (WhatsApp +233 24 456 5449 unchanged). Carries everything in 0.8.135. Installing: nothing in the books changes. Please still take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-09"
+  "notes": "SUB-ACCOUNTS: an account can now have sub-accounts (Chart of Accounts, + Sub-account), and the Trial Balance, Income & Expenditure, Financial Position, Notes and Budget Control show each heading with its parts beneath it. Settings, Chart of Accounts: choose how deep the chart may nest and whether a heading can be posted to. BIGGER MONITORS: the User Guide fills the screen, and the window reopens where you left it, with its own zoom on each display. Carries everything in 0.8.136. Installing: one new migration adds the sub-account column; no account moves and no figure changes. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-12"
 }
