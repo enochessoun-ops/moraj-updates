@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.139",
+  "version": "0.8.140",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "A STOCK LINE SOLD THROUGH SALES IMPORT CAN NO LONGER BE REVERSED FROM INVENTORY. Inventory used to offer Reverse on a stock line a day's sales import had relieved, and Reverse undoes the whole voucher: the day's takings and sales came back out of the ledger while the import still read Posted. The row now says to undo the day in Sales Import (History, Undo), which takes the takings, the sales and the stock out together. Invoice and requisition lines say where to correct them too. If Reverse was used on a sales-import line before this release, do NOT undo that day in Sales Import; contact sales@morajconsult.com. Carries everything in 0.8.138. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
+  "notes": "AN INVENTORY REVERSAL CAN NOW BE TAKEN BACK. In Inventory, Recent movements, the line a Reverse made now offers Take back reversal (finance users): the ledger returns to where it was and the stock comes back out or goes back in. It is refused, with the reason, if that stock has since been used. If you used Reverse on a sales-import line before 0.8.139: do NOT undo that day in Sales Import first; press Take back reversal on its [REVERSAL:] line, and the takings, sales, cost and stock all come back. Then undo the day in Sales Import if it was wrong. Carries everything in 0.8.139. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
   "releasedAt": "2026-10-15"
 }
