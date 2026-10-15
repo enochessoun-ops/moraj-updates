@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.134",
+  "version": "0.6.135",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "IMPORTANT FIX TO THE TRAINING COPY: if you opened the training copy and then used Switch company (or Different company) and chose the same company again, the orange TRAINING bar stayed on screen although the REAL books were open, so practice entries went into the real books. Fixed: the bar now shows only while the training copy is really open. If you used the training copy since 0.6.131, check your real books for practice vouchers on the days you practised and reverse any that are not real. ALSO: sub-accounts in the chart of accounts (Chart of Accounts, + Sub-account), with headings and their parts in the Trial Balance, Income & Expenditure, Financial Position, Notes and Budget Control; and a User Guide and window that suit a bigger monitor. Installing: one new migration adds the sub-account column; no figure changes. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-12"
+  "notes": "STANDARD HEADINGS FOR THE CHART OF ACCOUNTS: new books set up with the University (IPSAS) or business (SME) chart now get ready-made headings over each group of accounts (82 in the University chart, 43 in the business chart), and the statements show each heading's total and its parts. Books already in use: Chart of Accounts, Add the standard headings (administrators) shows what it would do first, then does it on Confirm; balances, postings, budgets and report totals stay exactly as they were, and an account in use by a bank account, setting, budget or template is never made a heading. Carries everything in 0.6.134, including the training-copy fix. Installing: one new migration adds the headings function and changes no data. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-15"
 }
