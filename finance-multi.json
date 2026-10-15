@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Finance Multi",
-  "version": "0.6.135",
+  "version": "0.6.136",
   "url": "https://github.com/enochessoun-ops/moraj-finance-multi/releases/latest",
-  "notes": "STANDARD HEADINGS FOR THE CHART OF ACCOUNTS: new books set up with the University (IPSAS) or business (SME) chart now get ready-made headings over each group of accounts (82 in the University chart, 43 in the business chart), and the statements show each heading's total and its parts. Books already in use: Chart of Accounts, Add the standard headings (administrators) shows what it would do first, then does it on Confirm; balances, postings, budgets and report totals stay exactly as they were, and an account in use by a bank account, setting, budget or template is never made a heading. Carries everything in 0.6.134, including the training-copy fix. Installing: one new migration adds the headings function and changes no data. Please take a backup first: Backup and Export, Back up now.",
+  "notes": "A STOCK LINE SOLD THROUGH SALES IMPORT CAN NO LONGER BE REVERSED FROM INVENTORY. Inventory used to offer Reverse on a stock line a day's sales import had relieved, and Reverse undoes the whole voucher: the day's takings and sales came back out of the ledger while the import still read Posted. The row now says to undo the day in Sales Import (History, Undo), which takes the takings, the sales and the stock out together. Invoice and requisition lines say where to correct them too. If Reverse was used on a sales-import line before this release, do NOT undo that day in Sales Import; contact sales@morajconsult.com. Carries everything in 0.6.135. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
   "releasedAt": "2026-10-15"
 }
