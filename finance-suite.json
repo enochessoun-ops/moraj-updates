@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.137",
+  "version": "0.8.138",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "SUB-ACCOUNTS: an account can now have sub-accounts (Chart of Accounts, + Sub-account), and the Trial Balance, Income & Expenditure, Financial Position, Notes and Budget Control show each heading with its parts beneath it. Settings, Chart of Accounts: choose how deep the chart may nest and whether a heading can be posted to. BIGGER MONITORS: the User Guide fills the screen, and the window reopens where you left it, with its own zoom on each display. Carries everything in 0.8.136. Installing: one new migration adds the sub-account column; no account moves and no figure changes. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-12"
+  "notes": "STANDARD HEADINGS FOR THE CHART OF ACCOUNTS: new books set up with the University (IPSAS) or business (SME) chart now get ready-made headings over each group of accounts (82 in the University chart, 43 in the business chart), and the statements show each heading's total and its parts. Books already in use: Chart of Accounts, Add the standard headings (administrators) shows what it would do first, then does it on Confirm; balances, postings, budgets and report totals stay exactly as they were, and an account in use by a bank account, setting, budget or template is never made a heading. Carries everything in 0.8.137. Installing: one new migration adds the headings function and changes no data. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-15"
 }
