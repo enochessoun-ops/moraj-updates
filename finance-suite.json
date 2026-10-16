@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.140",
+  "version": "0.8.141",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "AN INVENTORY REVERSAL CAN NOW BE TAKEN BACK. In Inventory, Recent movements, the line a Reverse made now offers Take back reversal (finance users): the ledger returns to where it was and the stock comes back out or goes back in. It is refused, with the reason, if that stock has since been used. If you used Reverse on a sales-import line before 0.8.139: do NOT undo that day in Sales Import first; press Take back reversal on its [REVERSAL:] line, and the takings, sales, cost and stock all come back. Then undo the day in Sales Import if it was wrong. Carries everything in 0.8.139. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-15"
+  "notes": "SECURITY FIX: ADMINISTRATOR RIGHTS COULD BE TAKEN. A signed-in user without finance rights could give themselves administrator and finance rights through a crafted request. This release closes it, both in the app and in the database itself, every time the app starts. Nothing changes for normal use. After installing, look over Administration, Users & Roles and confirm each person has the role you gave them. Please install this update. Carries everything in 0.8.140. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-10-16"
 }
