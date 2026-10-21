@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.141",
+  "version": "0.8.142",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "SECURITY FIX: ADMINISTRATOR RIGHTS COULD BE TAKEN. A signed-in user without finance rights could give themselves administrator and finance rights through a crafted request. This release closes it, both in the app and in the database itself, every time the app starts. Nothing changes for normal use. After installing, look over Administration, Users & Roles and confirm each person has the role you gave them. Please install this update. Carries everything in 0.8.140. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-10-16"
+  "notes": "THE CASH FLOW PLACES ITSELF, GRA PORTAL EXPORTS AND A NEW LOOK. The Statement of Cash Flows now reads its lines from your books: bank accounts, petty cash and short deposits are cash; the Borrowings register, fixed-asset classes, deposits and each account's statement line say what is investing or financing, with interest and income tax on lines of their own. Withholding kept back, purchases on credit and loans recovered through payroll are no longer shown as cash; opening balances are cash brought forward. Settings, Cash Flow lists are now corrections, with a new Always Operating list. Payroll and Withholding Payables can export in the order of GRA's e-Services portal templates. A new look: soft tinted screens, crisper edges, clearer tabs and fields, and a rebuilt sign-in. The User Guide covers all of it. Carries everything in 0.8.141. Installing: no migration and no change to your data. Please take a backup first: Backup & Export, Back up the database now.",
+  "releasedAt": "2026-10-21"
 }
