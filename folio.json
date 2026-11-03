@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "CHEQUES AND CASH AWAITING DEPOSIT: cheques and cash paid at the office wait in Daily sales, Lodgements until a deposit slip banks them with the day's cash; cheque bank and date kept, post-dated and stale cheques caught; printable deposit slip. EDITABLE LETTERS: Setup, Letters for the reminder wording, references, addressee and signatory; Edit this letter before printing. PRINTED BY on every invoice, receipt and letter. Also carries 1.4.0: recovery history and the Bills and recoveries report. Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
-  "releasedAt": "2026-10-06"
+  "notes": "UPDATE BOTH COMPUTERS: the office link is now encrypted, so the main computer and the second computer must both run 1.6.0. APPROVALS: cancelling or re-billing an issued invoice, reversing a receipt, deposit slip or cash sale, and undoing an import wait for a second person in Approvals. SAFER SAVING: a failed save is truly undone and a save is never posted twice from the second computer. BACKUPS: administrator only; copy each backup to a second folder. EMAIL THIS: invoices, receipts, statements and letters by email from the Centre's own account. EXCEL on the Invoices, Receipts and Debtors lists. WITHHOLDING TAX at receipt (off until switched on in Setup, Organisation). Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
+  "releasedAt": "2026-11-03"
 }
