@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "UPDATE BOTH COMPUTERS: the office link is now encrypted, so the main computer and the second computer must both run 1.6.0. APPROVALS: cancelling or re-billing an issued invoice, reversing a receipt, deposit slip or cash sale, and undoing an import wait for a second person in Approvals. SAFER SAVING: a failed save is truly undone and a save is never posted twice from the second computer. BACKUPS: administrator only; copy each backup to a second folder. EMAIL THIS: invoices, receipts, statements and letters by email from the Centre's own account. EXCEL on the Invoices, Receipts and Debtors lists. WITHHOLDING TAX at receipt (off until switched on in Setup, Organisation). Installing: the books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now.",
-  "releasedAt": "2026-11-03"
+  "notes": "TEXT SIZE: A- and A+ in the top bar (or Ctrl and + or -, Ctrl 0 for 100%) make everything larger or smaller; each computer keeps its own size and printing is not affected. Bills brought forward can now be reported under several revenue centres (meals, drinks, accommodation, conference). No change to the books when installing; 1.6.0 and 1.6.1 computers work together.",
+  "releasedAt": "2026-11-11"
 }
