@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.145",
+  "version": "0.8.146",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "A CALMER LOOK AND TIDIER FORMS. The menu is now a deep ink navy with each screen's own icon and a gold marker on the screen you are in; choose Deep ink, Graphite or Light menu under Colours in the user menu. Fund Receipts, Journal Vouchers, the Cheque Register and Chart of Accounts show one main button per row with the rest under a More menu. Forms are easier to read: the payment entry panel sits on a soft grey with section labels, required fields are starred, buttons stay on one row and read in plain sentence case, example text says e.g., and file pickers show a proper Choose file button. The purchase order prints on the same letterhead as the vouchers. Carries everything in 0.8.144. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-11-10"
+  "notes": "A CLEARER LOOK ON EVERY SCREEN. The whole app has been redrawn to one standard: one type style, stronger contrast, clear card edges, and figures that are never cut off. The dashboard leads with cash, income and expenditure, then what needs you. Wide registers (Staff Advances, Withholding Payables, Petty Cash) now fit the page, with one main button per row. Settings shows one group at a time, with a Find a setting box. Large photos are reduced as you attach them, and Backup shows the space your attached papers take. Carries everything in 0.8.145. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-11-11"
 }
