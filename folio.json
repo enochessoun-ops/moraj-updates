@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "TEXT SIZE: A- and A+ in the top bar (or Ctrl and + or -, Ctrl 0 for 100%) make everything larger or smaller; each computer keeps its own size and printing is not affected. Bills brought forward can now be reported under several revenue centres (meals, drinks, accommodation, conference). No change to the books when installing; 1.6.0 and 1.6.1 computers work together.",
-  "releasedAt": "2026-11-11"
+  "notes": "IMPORT: templates to fill in, and the monthly debit-note sheet imports as it is (one bill per row, a column per service); swapped dates are pointed out and bills already in the books are shown beside the row. KITCHEN ORDERS: the same number is allowed on several lines and on the same debtor's bills; refused only on another debtor's bill. BILLS TO CHECK: paper numbers in the books more than once, to cancel the wrong copy. REVENUE CENTRES of a bill brought forward can be shared out, or chosen line by line. REPORTS in six groups, each report listed once. Update the main computer first. The books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now. A backup made by 1.7.0 cannot be restored on 1.6.1.",
+  "releasedAt": "2026-11-12"
 }
