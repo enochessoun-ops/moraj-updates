@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.146",
+  "version": "0.8.147",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "A CLEARER LOOK ON EVERY SCREEN. The whole app has been redrawn to one standard: one type style, stronger contrast, clear card edges, and figures that are never cut off. The dashboard leads with cash, income and expenditure, then what needs you. Wide registers (Staff Advances, Withholding Payables, Petty Cash) now fit the page, with one main button per row. Settings shows one group at a time, with a Find a setting box. Large photos are reduced as you attach them, and Backup shows the space your attached papers take. Carries everything in 0.8.145. Installing: no migration and no change to your data. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-11-11"
+  "notes": "STALE CHEQUES ARE PAID ONCE. A payee who was already paid by a payment keyed by hand (or its correction) is no longer offered Pay… a second time: the app names that payment, and an administrator records it with “Already paid by voucher…”. Where stale cheques are kept with the bills on Sundry Creditors, a journal keyed by hand counts as a cheque’s write-back only after an administrator marks it (Cheque Register, Mark as its write-back…), and only then can its payee be paid. A lodgement now belongs only to a receipt that stands. Installing: this release carries a database change (0220, 0221) that does not alter any posted figure. Carries everything in 0.8.146. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-11-13"
 }
