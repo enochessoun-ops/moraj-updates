@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.147",
+  "version": "0.8.148",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "STALE CHEQUES ARE PAID ONCE. A payee who was already paid by a payment keyed by hand (or its correction) is no longer offered Pay… a second time: the app names that payment, and an administrator records it with “Already paid by voucher…”. Where stale cheques are kept with the bills on Sundry Creditors, a journal keyed by hand counts as a cheque’s write-back only after an administrator marks it (Cheque Register, Mark as its write-back…), and only then can its payee be paid. A lodgement now belongs only to a receipt that stands. Installing: this release carries a database change (0220, 0221) that does not alter any posted figure. Carries everything in 0.8.146. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-11-13"
+  "notes": "CHEQUES NO LONGER OWED. An administrator can now release a stale cheque that will never be paid (Cheque Register, No longer owed…): back to the expense it paid this year, to income or a prior-year adjustment, or, for an advance’s cheque, back to the staff advance, which is retired with it. One journal dated today, no bank line, the reason on the audit trail; reversing it makes the cheque owed again. Tax withheld on the original payment is cancelled with it. “Pay anyway” now happens inside the payment itself. Installing: a database change (0222) that alters no posted figure. Carries everything in 0.8.147. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-11-14"
 }
