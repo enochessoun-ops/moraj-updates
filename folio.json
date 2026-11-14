@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "IMPORT: templates to fill in, and the monthly debit-note sheet imports as it is (one bill per row, a column per service); swapped dates are pointed out and bills already in the books are shown beside the row. KITCHEN ORDERS: the same number is allowed on several lines and on the same debtor's bills; refused only on another debtor's bill. BILLS TO CHECK: paper numbers in the books more than once, to cancel the wrong copy. REVENUE CENTRES of a bill brought forward can be shared out, or chosen line by line. REPORTS in six groups, each report listed once. Update the main computer first. The books are upgraded when the app opens; no figure changes. Take a backup first: Setup, Backup, Back up now. A backup made by 1.7.0 cannot be restored on 1.6.1.",
-  "releasedAt": "2026-11-12"
+  "notes": "CORRECTIONS: change a receipt's or bill's date, number or cheque number after it is issued; a receipt recorded as cash that was really a cheque (or the other way round) is switched. BILL NUMBERING: enter found bills with their exact paper number while the books are cleaned, then switch to automatic numbering. BILLS TO CHECK: bill numbers in the books more than once, To rectify and Settled, each copy can be put right. HOME shows cheques dated months from their receipt and bills without a revenue centre. RESTORE shows what a backup is missing before you go ahead. BACKUPS: each computer keeps its own backup folder. Receipts and invoices have a filing margin. Update the main computer first and take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0 and 1.8.0.",
+  "releasedAt": "2026-11-14"
 }
