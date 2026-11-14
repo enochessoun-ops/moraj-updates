@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "CORRECTIONS: change a receipt's or bill's date, number or cheque number after it is issued; a receipt recorded as cash that was really a cheque (or the other way round) is switched. BILL NUMBERING: enter found bills with their exact paper number while the books are cleaned, then switch to automatic numbering. BILLS TO CHECK: bill numbers in the books more than once, To rectify and Settled, each copy can be put right. HOME shows cheques dated months from their receipt and bills without a revenue centre. RESTORE shows what a backup is missing before you go ahead. BACKUPS: each computer keeps its own backup folder. Receipts and invoices have a filing margin. Update the main computer first and take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0 and 1.8.0.",
+  "notes": "SIDE MENU THAT FOLDS: Fold menu at the bottom folds it to icons and opens it again; each section heading folds with a click; in a narrow window or with large text it folds by itself. Also in 1.8.0, if this computer has not had it: corrections of dates, numbers and cheque numbers; typed bill numbering while the books are cleaned; Bills to check; restore shows what a backup is missing; each computer keeps its own backup folder; filing margin on receipts and invoices. Take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0, 1.8.0 and 1.8.1.",
   "releasedAt": "2026-11-14"
 }
