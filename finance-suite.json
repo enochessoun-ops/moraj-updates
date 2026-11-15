@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Ledger",
-  "version": "0.8.148",
+  "version": "0.8.149",
   "url": "https://github.com/enochessoun-ops/moraj-ledger-downloads/releases/latest",
-  "notes": "CHEQUES NO LONGER OWED. An administrator can now release a stale cheque that will never be paid (Cheque Register, No longer owed…): back to the expense it paid this year, to income or a prior-year adjustment, or, for an advance’s cheque, back to the staff advance, which is retired with it. One journal dated today, no bank line, the reason on the audit trail; reversing it makes the cheque owed again. Tax withheld on the original payment is cancelled with it. “Pay anyway” now happens inside the payment itself. Installing: a database change (0222) that alters no posted figure. Carries everything in 0.8.147. Please take a backup first: Backup and Export, Back up now.",
-  "releasedAt": "2026-11-14"
+  "notes": "REVIEWED AND HARDENED: GRA E-VAT, OPENING IMPORTS, PAYROLL AND THE YEAR-END CLOSE. GRA E-VAT stays off until you switch it on (Settings, Tax — GRA E-VAT); when on, a reversed signed invoice is refunded at GRA, a number GRA already holds is shown as a clash to check on GRA's portal (an administrator records “GRA holds it”), Retry answers at once, and the invoice form warns when a discount line's rate cannot be signed. Opening items brought forward: an approval holds what each row came to, an import is taken back only with its Undo, staff loans post without names, and one invoice number is one invoice. A posted payroll is reversed only from Payroll, Monthly run; a supplier bank file pays only posted transfers. The year closes only into the accumulated fund, never the opening balances clearing account, and the close warns if that account carries a balance. The Help guide covers all of it. Installing: database changes (0223–0227) that alter no posted figure. Carries everything in 0.8.148. Please take a backup first: Backup and Export, Back up now.",
+  "releasedAt": "2026-11-15"
 }
