@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "SIDE MENU THAT FOLDS: Fold menu at the bottom folds it to icons and opens it again; each section heading folds with a click; in a narrow window or with large text it folds by itself. Also in 1.8.0, if this computer has not had it: corrections of dates, numbers and cheque numbers; typed bill numbering while the books are cleaned; Bills to check; restore shows what a backup is missing; each computer keeps its own backup folder; filing margin on receipts and invoices. Take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0, 1.8.0 and 1.8.1.",
+  "notes": "SMALLER IMPROVEMENTS: Bills to check has a Find box, a Last 3 months view on Settled, and Not different after all to take back a choice. Up to four reports can be pinned to Quick open. Lodgement slips print page numbers. A sales or receipts file without a date column can be imported with one date for every row. An email can be offered from the unit above when a debtor has none (you check it before sending). A receipt matched to a bank statement keeps its number until the match is undone. Take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0 and 1.8.2. Update the main computer first.",
   "releasedAt": "2026-11-14"
 }
