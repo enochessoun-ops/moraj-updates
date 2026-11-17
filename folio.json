@@ -1,7 +1,7 @@
 {
   "product": "MoRaj Folio",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "url": "https://enochessoun-ops.github.io/moraj-ledger/",
-  "notes": "SMALLER IMPROVEMENTS: Bills to check has a Find box, a Last 3 months view on Settled, and Not different after all to take back a choice. Up to four reports can be pinned to Quick open. Lodgement slips print page numbers. A sales or receipts file without a date column can be imported with one date for every row. An email can be offered from the unit above when a debtor has none (you check it before sending). A receipt matched to a bank statement keeps its number until the match is undone. Take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0 and 1.8.2. Update the main computer first.",
-  "releasedAt": "2026-11-14"
+  "notes": "PRESENT MODE: the Present button in the top bar (or F11; Cmd Shift F on a Mac) shows a screen to a meeting: full screen, large text, the menu tucked away; Menu calls it back, Esc leaves. Sharing an old bill between revenue centres now keeps what its lines say, and putting a shared bill under one centre moves every line. Take a backup first: Setup, Backup, Back up now. No upgrade of the books: backups move freely between 1.7.0 and 1.8.3. Update the main computer first.",
+  "releasedAt": "2026-11-17"
 }
